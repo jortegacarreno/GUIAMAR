@@ -1,5 +1,7 @@
 ﻿{
   "version_db": 11,
   "archivo": "GUIAMAR.db",
-  "sha256": "15a141f59fd17f197b5d67af1fe07ae06c1286a7c5275f8cb1a420e202a29d67"
+  "sha256": "15a141f59fd17f197b5d67af1fe07ae06c1286a7c5275f8cb1a420e202a29d67",
+  "min_app_build": 1,
+  "schema_version": 1
 }
